@@ -1,0 +1,82 @@
+*{
+	box-sizing: border-box;
+}
+
+body
+{
+	color: grey;
+	font-family: serif, sans-serif;
+	background-image: url('images/fond.png');
+}
+
+a
+{
+	
+	text-decoration: none;
+	color: grey;	
+
+
+}
+
+
+.wrapper
+{
+	font-size: 1.3em;
+	margin: 0 auto;
+	width: 1000px;
+
+}
+.tamere
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}
+
+header
+{
+
+	text-align: center;
+}
+
+header li
+{
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+
+}
+
+header li a 
+{
+	display: block;
+	padding: 10px;
+}
+header li a:hover
+{
+	color: white;
+}
+header li:hover .sub-menu
+{
+	display: block;
+}
+.sub-menu
+{
+	display: none;
+	position: absolute;
+	width: 200px;
+	text-align: left;
+	padding: -40px;
+
+}
+
+.sub-menu li
+{
+	display: block;
+}
+
+.sub-menu li:hover a 
+{
+	
+	color: white;
+}

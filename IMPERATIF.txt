@@ -1,0 +1,41 @@
+
+texte bioraphie a droite et photo plus grosse
+inspiré des sillons --> deux photos a gauche texte a droite dont le titre bio au dessus
+login 3.30 "TOP CSS JAVASCRIPT ANI AUG 2020
+https://codepen.io/sara_bianchi94/pen/LLOVYy/" pour parties
+mettre contact pour tel !!
+regarde indo.fr pour diviser header en 2 --> centrer header completement !!
+
+
+faire css login/register/edit
+creer adresse mail contact-fusion@gmail.com
+Youtube: groupe.fusion.musique@gmail.com
+mdp: MotDePasseFusionYoutube
+
+
+contactgroupefusionfr@gmail.com
+mdp: ContactGroupeFusion
+
+
+
+pour 7/05
+footer credit photos max et theo
+remplacer photos
+
+
+
+disposition photo
+Accueil: 12
+info//Bio: 48max
+Info//Galerie: back
+Bio: 48max
+citation: 14
+
+groupe//Isaac: 4
+Isaac: fond page 44 gauche: change pas droite: 31
+
+groupe//Nirva: 6
+Nirva: fond page : 22 gauche: 16 droite: 12max
+
+
+

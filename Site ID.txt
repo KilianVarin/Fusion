@@ -1,0 +1,61 @@
+GROUPE-FUSION.FR
+www.groupe-fusion.fr
+ 
+
+FTP :
+ 
+
+Serveur : www.groupe-fusion.fr
+Login : grfusion
+
+Pass : i3!8ux2F
+
+ 
+
+MySQL :
+
+ 
+
+Serveur : localhost
+Login : grfusion
+Base : grfusion
+Pass : 7Zn7r6%b
+
+ 
+
+ 
+
+https://www.groupe-fusion.fr/phpMyAdminFusion
+
+ 
+
+ 
+
+Exemple config.php :
+ 
+
+/**/
+//          PARAMETRE DE LA BASE SQL
+/**/
+$host = 'localhost';    // Serveur MySQL
+$user = 'grfusion';     // Login MySQL
+$pass = '7Zn7r6%b';     // Password MySQL
+$base = 'grfusion';     // Nom de la Base MySQL
+ 
+
+ 
+
+// Fin du fichier
+
+// Create connection
+$conn = new mysqli($host, $user, $pass);
+ 
+
+// Check connection
+
+if ($conn->connect_error) {
+
+  die("Connection failed: " . $conn->connect_error);
+
+}
+echo "Connected successfully";
